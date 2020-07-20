@@ -1,7 +1,36 @@
-html, body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  font-weight: 300;
-  line-height: 1.5;
+#container {
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 200px
+    
+  padding: 10px 150px 10px 150px;
+  
+  border-radius: 15px;
+  background-color: #C4CECD;
+  
+  text-align: left;
 }
+
+#content-experience {
+  font-size: 40px;
+}
+h1 {
+   font-size:64px;
+   margin-bottom:-25px;
+}
+h2 {
+  font-size:18px;
+  margin-bottom: -6px;
+  {
+h3 {
+  font-size 26px;
+  margin-bottom: -10px;
+}
+h4 {
+  font-size: 22px;
+  margin-bottom: -10px;
+}
+li {
+  font-size: 18px;
+  text-align: left;
+}    
